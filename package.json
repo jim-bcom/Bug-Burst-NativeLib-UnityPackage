@@ -1,0 +1,12 @@
+{
+    "name": "com.test.native.lib",
+    "version": "0.1.0",
+    "displayName": "TestLibPackage",
+    "description": "Unity package for native lib test",
+    "unity": "2022.3",
+    "author": {
+        "name": "foo",
+        "email": "foo@bar.com",
+        "url": "https://wwwfoobar.com"
+    }
+}
